@@ -2,10 +2,10 @@
 	"name": "Jordan",
 	"age": 347,
 	"arrayOfData": [
-		{"id": 1, "propert": "value1"},
-		{"id": 2, "propert": "value2"},
-		{"id": 3, "propert": "value3"},
-		{"id": 4, "propert": "value4"}
+		{"id": 1, "property": "value1"},
+		{"id": 2, "property": "value2"},
+		{"id": 3, "property": "value3"},
+		{"id": 4, "property": "value4"}
 	],
 	"subObject": {
 		"name": "sub",
