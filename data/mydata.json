@@ -1,0 +1,21 @@
+{
+	"name": "Jordan",
+	"age": 347,
+	"arrayOfData": [
+		{"id": 1, "propert": "value1"},
+		{"id": 2, "propert": "value2"},
+		{"id": 3, "propert": "value3"},
+		{"id": 4, "propert": "value4"}
+	],
+	"subObject": {
+		"name": "sub",
+		"position": "bottom",
+		"safeWord": "cacao",
+		"likes": [
+			"long walks",
+			"dogs",
+			"cooking",
+			"monkeys"
+		]
+	}
+}
